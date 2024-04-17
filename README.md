@@ -2,4 +2,4 @@
 Repositório para guardar informações sobre o jogo palworld
 
 ## Cruzamentos
-Lista de cruzamentos de pals
+Lista dos melhores pal
